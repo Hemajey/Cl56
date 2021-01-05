@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+#head {
+    color: blue;
+    font-family: fantasy;
+}
+
+#but {
+    background-color: aquamarine;
+}
